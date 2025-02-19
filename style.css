@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1 {
+    color: #333;
+}
+#task-input {
+    padding: 8px;
+    width: 200px;
+}
+#add-task {
+    padding: 8px 16px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
